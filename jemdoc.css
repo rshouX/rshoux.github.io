@@ -17,7 +17,7 @@ html {
 }
 
 body { 
-  font-family: Arial, Helvetica, Times, Georgia, Verdana, sans-serif;
+  font-family: Helvetica, Arial, Times, Georgia, Verdana, sans-serif;
   color: #000;
   background-color: #ffffff; 
   text-align:left; /* for IE */
